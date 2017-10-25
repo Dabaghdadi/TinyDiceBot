@@ -28,7 +28,7 @@ b = 1-10000
 
     `@tinydicebot (3D4)`
 
-4. you can add, subtract, divide, and multiply with whole integers or even other dice *(non-whole numbers will be rounded, and negatives will default to 0. don'y forget the parenthesis!)*
+4. you can add, subtract, divide, and multiply with whole integers or even other dice *(non-whole numbers will be rounded, and negatives will default to 0. don't forget the parenthesis!)*
 
     `@tinydicebot (D6)*3` 
    
