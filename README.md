@@ -9,4 +9,6 @@ a twitter bot that rolls dice for you
 </p><br>
 
 <h3>how to use the darn thing:</h3>
-```@tinydicebot 2D5``` <i>or</i> ```@tinydicebot 2🎲5```
+1. tweet at it
+	@tinydicebot 2D5 <i>or</i> @tinydicebot 2🎲5
+
