@@ -10,10 +10,30 @@ a twitter bot that rolls dice for you
 
 <h3>how to tweet at it:</h3>
 
-1. roll a 5-sided die `@tinydicebot D5` *(dice must be at least 2 sided)*
+**a**D**b**
 
-2. roll two 10-sided dice `@tinydicebot 2D10` *(can't roll more than 15 dice in one tweet)*
+a = 1-9
 
-3. roll three 4-sided dice, but total the outcome `@tinydicebot (3D4)`
+b = 1-10000
 
-4. you can add, subtract, divide, and multiply with whole integers or even other dice `@tinydicebot (D6)*3` `@tinydicebot (2D2)/(5D3)` *(non-whole numbers will be rounded, and negatives will default to 0)*
+1. roll a 5-sided die *(dice must be at least 2 sided)*
+
+    `@tinydicebot D5`
+
+2. roll two 10-sided dice
+
+    `@tinydicebot 2D10`
+
+3. roll three 4-sided dice, but total the outcome
+
+    `@tinydicebot (3D4)`
+
+4. you can add, subtract, divide, and multiply with whole integers or even other dice *(non-whole numbers will be rounded, and negatives will default to 0. don'y forget the parenthesis!)*
+
+    `@tinydicebot (D6)*3` 
+   
+    `@tinydicebot (2D2)/(5D3)`
+    
+    `@tinydicebot 5-(5D3)`
+    
+    `@tinydicebot (2D100)+2`
