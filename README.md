@@ -8,13 +8,13 @@ a twitter bot that rolls dice for you
 2🎲10 > [6] [2]
 </p><br>
 
-<h3>how to tweet at it:</h3>
-
 **a**D**b**
 
 a = 1-9
 
 b = 1-10000
+
+<h3>how to tweet at it:</h3>
 
 1. roll a 5-sided die *(dice must be at least 2 sided)*
 
